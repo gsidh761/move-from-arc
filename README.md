@@ -13,11 +13,8 @@
 
 Run the `main.py` script from the command line:
 
-```sh
-python3 main.py [-h] [--version]
-
-# or if there is an error:
-python main.py [-h] [--version]
+```
+python3 main.py [-h] [-b] [--version]
 ```
 
 ## How It Works
